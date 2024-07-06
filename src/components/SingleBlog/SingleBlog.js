@@ -12,11 +12,10 @@ const SingleBlog = ({image}) => {
                     <div className="latest-news-content-box">
                         <div className="latest-news-content">
                             <div className="news-meta mb-10">
-                                <span><Link to="/blogDetails" className="news-tag">Medical,</Link></span>
-                                <span><Link to="/blogDetails" className="news-tag">Medicine</Link></span>
+                                <span><Link to="/blogDetails" className="news-tag">Mental</Link></span>
                             </div>
-                            <h3><Link to="/blogDetails">Lorem ipsum dolor sit met, cons ectetur.</Link></h3>
-                            <p>Lorem ipsum dolor sit amet, consectet adipisicing elit, sed do eiusmod tem incididunt ut labore et dolore.</p>
+                            <h3><Link to="/blogDetails">The cure to anxiety.</Link></h3>
+                            <p>YEMS has found the cure to anxiety. This ground breaking discovery was led by a team of professionals ...</p>
                         </div>
                     </div>
                 </div>
