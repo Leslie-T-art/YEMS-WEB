@@ -63,7 +63,7 @@ const HomeFooter = () => {
                                             <li><Link to="/doctors">Our Doctors</Link></li>
                                             <li><Link to="/blogs">News</Link></li>
                                             <li><Link to="/shop">Shop</Link></li>
-                                            <li><Link to="/contact">Contact Us</Link></li>
+                                            <li><Link to="#">Contact Us</Link></li>
                                             <li><Link to="/contact">Book an Appointment</Link></li>
                                         </ul>
                                     </div>
