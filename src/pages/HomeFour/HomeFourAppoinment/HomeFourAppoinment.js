@@ -12,7 +12,7 @@ const HomeFourAppoinment = () => {
                   <div className="h4appoinment-wrapper">
                      <div className="about-title mb-50">
                         <h5 className="pink-color">Make An Appointment</h5>
-                        <h1>Get An Appointment <br/> For Get Release</h1>
+                        <h1>Book An Appointment </h1>
                      </div>
                      <form className="h4appoinment-form mb-15">
                         <div className="row">
