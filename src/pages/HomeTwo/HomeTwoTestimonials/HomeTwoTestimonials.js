@@ -1,5 +1,7 @@
 import React from 'react';
 import HomeTwoSingleTestimonial from '../../../components/HomeTwoSingleTestimonial/HomeTwoSingleTestimonial';
+import HomeTwoSingleTestimonial1 from '../../../components/HomeTwoSingleTestimonial/HomeTwoSingleTestimonial1';
+
 import Slider from "react-slick";
 
 const HomeTwoTestimonials = () => {
@@ -56,7 +58,7 @@ const HomeTwoTestimonials = () => {
                <Slider className='testimonials-activation' {...settings}>
 
                      <HomeTwoSingleTestimonial image="1" />
-                     <HomeTwoSingleTestimonial image="2" />
+                     <HomeTwoSingleTestimonial1 image="2" />
                      <HomeTwoSingleTestimonial image="1" />
 
                   </Slider>
