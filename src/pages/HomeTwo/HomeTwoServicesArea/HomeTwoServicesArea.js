@@ -25,10 +25,12 @@ const HomeTwoServicesArea = () => {
 
                <div className="row">
 
-                  <HomeTwoSingleService icon="1" number="1" title="Medical Home Care" />
-                  <HomeTwoSingleService icon="2" number="2" title="Medical Eye Point" />
-                  <HomeTwoSingleService icon="3" number="3" title="Medical Older Care" />
-                  <HomeTwoSingleService icon="4" number="4" title="Medical Dental Care" />
+                  <HomeTwoSingleService icon="1" number="1" title="Mental health assessment" />
+                  <HomeTwoSingleService icon="2" number="2" title="After hours counselling " />
+                  <HomeTwoSingleService icon="3" number="3" title="24/7 crises advisor" />
+                  <HomeTwoSingleService icon="4" number="4" title="Debrief in crises space" />
+                  <HomeTwoSingleService icon="5" number="5" title="Kids helpline" />
+
 
                </div>
             </div>
