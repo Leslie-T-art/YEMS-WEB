@@ -8,9 +8,9 @@ const HomeTwoCounter = () => {
                 <div className="container">
                     <div className="row justify-content-around">
 
-                        <HomeTwoSingleCount icon="4" counter="540" subtitle="Expert Doctors" />
-                        <HomeTwoSingleCount icon="5" counter="899" subtitle="Problem Solve" />
-                        <HomeTwoSingleCount icon="6" counter="100" subtitle="Award Winner" />
+                        <HomeTwoSingleCount icon="4" counter="540" subtitle="Therapeutic Sessions" />
+                        <HomeTwoSingleCount icon="5" counter="899" subtitle="Conversations" />
+                        <HomeTwoSingleCount icon="6" counter="100" subtitle="Clients" />
 
                     </div>
                 </div>
