@@ -14,8 +14,8 @@ const HomeTwoAppoinmentArea = () => {
                            <div className="col-xl-8 col-lg-12">
                               <div className="appoinment-box-content">
                                  <div className="about-title mb-40">
-                                    <h5 className="pink-color">Free Consultation</h5>
-                                    <h1>Get An Appointment For Get Release.</h1>
+                                    <h5 className="pink-color">Consultation</h5>
+                                    <h1>Get An Appointment</h1>
                                  </div>
                                  <div className="row">
 
@@ -31,8 +31,8 @@ const HomeTwoAppoinmentArea = () => {
                                              <label htmlFor="input">select your services</label>
                                              <select name="lc" id="lc" className="postform">
                                                 <option defaultValue="-1">Choose A Service</option>
-                                                <option className="level-0" defaultValue="36">Chicago, United States</option>
-                                                <option className="level-0" defaultValue="37">California, United States</option>
+                                                <option className="level-0" defaultValue="36">Consultation</option>
+                                                <option className="level-0" defaultValue="37">Assessment</option>
                                              </select>
                                           </form>
                                        </div>
