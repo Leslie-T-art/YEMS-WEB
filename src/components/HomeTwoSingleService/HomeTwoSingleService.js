@@ -11,9 +11,9 @@ const HomeTwoSingleService = ({icon,number,title}) => {
                 </div>
                 <div className="service-content service-content-2">
                    <h6 className="green-color text-up-case letter-spacing mb-20">Older & Children</h6>
-                   <h3><Link to="/servicesDetails">{title}</Link></h3>
+                   <h3><Link to="/">{title}</Link></h3>
 
-                   <Link className="service-link" to="/servicesDetails"><i className="fas fa-arrow-right"></i>Read More</Link>
+                   <Link className="service-link" to="/"><i className="fas fa-arrow-right"></i>Read More</Link>
                 </div>
                 <div className="service-number">
                    <h1 className="service-big-number">{`0${number}`}</h1>
