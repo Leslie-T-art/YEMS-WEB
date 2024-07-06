@@ -42,7 +42,7 @@ const HomeTwoAppoinmentArea = () => {
 
                                     <div className="col-xl-6 col-lg-12">
                                        <div className="appoint-button">
-                                          <Link to="/contact" className="primary_btn green-bg-btn">Make Appointment</Link>
+                                          <Link to="/" className="primary_btn green-bg-btn">Make Appointment</Link>
                                        </div>
                                     </div>
                                  </div>
