@@ -24,9 +24,9 @@ const HomeTwoSingleTestimonial = ({image}) => {
                   <p>The level of professionalism at Yems is absolutely amazing. I recommend them to anyone.</p>
                </div>
                <div className="testi-author d-flex align-items-center mt-30">
-                  <div className="testi-author-icon-2">
+                  {/* <div className="testi-author-icon-2">
                      <img src={`img/icon/tesit-author-icon-${image}.png`} alt=""/>
-                  </div>
+                  </div> */}
                   <div className="testi-author-desination-2">
                      <h4>Rosalina D. Williamson</h4>
                      <span><span className="f-500 pink-color">Regular Client</span></span>
