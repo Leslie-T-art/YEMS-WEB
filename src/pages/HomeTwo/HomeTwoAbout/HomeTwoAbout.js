@@ -41,7 +41,7 @@ const HomeTwoAbout = () => {
                            </ul>
                         </div>
                         <div className="button-area">
-                           <Link to="/about" className="primary_btn btn-icon ml-0"><span>+</span>learn more</Link>
+                           <Link to="/" className="primary_btn btn-icon ml-0"><span>+</span>learn more</Link>
                         </div>
                      </div>
                   </div>
