@@ -28,16 +28,16 @@ const HomeTwoNavBar = () => {
                                  <li><Link to="/">Home </Link>
                                    
                                  </li>
-                                 <li><Link to="/services">Department </Link>
+                                 <li><Link to="/">Department </Link>
                                     
                                  </li>
-                                 <li><Link to="/doctors">Doctors </Link>
+                                 <li><Link to="/">Doctors </Link>
 
                                  </li>
-                                 <li><Link to="/shop">Services </Link>
+                                 <li><Link to="/">Services </Link>
                                     
                                  </li>
-                                 <li><Link to="/blogs">News </Link>
+                                 <li><Link to="/">News </Link>
                                     
                                  </li>
                                  
@@ -52,7 +52,7 @@ const HomeTwoNavBar = () => {
                      <div className="col-xl-4 col-lg-2 d-none d-lg-block d-xl-block">
                         <div className="header-right f-right">
                            
-                           <Link to="/contact" className="primary_btn btn-icon btn-icon-green"><span>+</span>contact
+                           <Link to="/" className="primary_btn btn-icon btn-icon-green"><span>+</span>contact
                               us</Link>
                            
                         </div>
