@@ -24,8 +24,8 @@ const HomeTwoHeroSection = () => {
                                     <h1 className="white-color" >YEMS is committed</h1>
                                  </div>
                                  <div className="hero-slider-btn">
-                                    <Link to="/about" className="primary_btn btn-icon btn-icon-blue ml-0"><span>+</span>about us</Link>
-                                    <button onClick={() => setIsOpen(true)} className="play-btn popup-video"><i className="fas fa-play"></i></button>
+                                    <Link to="#" className="primary_btn btn-icon btn-icon-blue ml-0"><span>+</span>about us</Link>
+                                    <button onClick={() => setIsOpen(true)} className="play-btn "><i className="fas fa-play"></i></button>
                                  </div>
                               </div>
                            </div>
@@ -70,7 +70,7 @@ const HomeTwoHeroSection = () => {
                                        </div>
                                        <div className="col-xl-12 mb-35">
                                           <div className="inner caregive-btn text-center">
-                                             <Link to="/contact" className="primary_btn gray-btn-border">Talk To Us</Link>
+                                             <Link to="#" className="primary_btn gray-btn-border">Talk To Us</Link>
                                           </div>
                                        </div>
                                     </div>
