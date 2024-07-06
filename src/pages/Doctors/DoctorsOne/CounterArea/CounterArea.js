@@ -8,9 +8,9 @@ const CounterArea = () => {
             <div className="container">
                <div className="row">
 
-                  <SingleCount icon="7" counter="540" title="Expert Doctors" />
-                  <SingleCount icon="83" counter="899" title="Problem Solve" />
-                  <SingleCount icon="9" counter="100" title="Award Winner" />
+                  <SingleCount icon="7" counter="540" title="Therapeutic Conversations" />
+                  <SingleCount icon="83" counter="899" title="Clients" />
+                  <SingleCount icon="9" counter="100" title="Endorsements" />
 
                </div>
             </div>
