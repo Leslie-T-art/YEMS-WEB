@@ -29,7 +29,7 @@ const HomeTwoServicesArea = () => {
                   <HomeTwoSingleService icon="2" number="2" title="After hours counselling " />
                   <HomeTwoSingleService icon="3" number="3" title="24/7 crises advisor" />
                   <HomeTwoSingleService icon="4" number="4" title="Debrief in crises space" />
-                  <HomeTwoSingleService icon="5" number="5" title="Kids helpline" />
+                  <HomeTwoSingleService icon="4" number="5" title="Kids helpline" />
 
 
                </div>
