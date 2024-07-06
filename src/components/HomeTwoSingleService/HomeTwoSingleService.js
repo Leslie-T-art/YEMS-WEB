@@ -12,8 +12,7 @@ const HomeTwoSingleService = ({icon,number,title}) => {
                 <div className="service-content service-content-2">
                    <h6 className="green-color text-up-case letter-spacing mb-20">Older & Children</h6>
                    <h3><Link to="/servicesDetails">{title}</Link></h3>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                      aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+
                    <Link className="service-link" to="/servicesDetails"><i className="fas fa-arrow-right"></i>Read More</Link>
                 </div>
                 <div className="service-number">
