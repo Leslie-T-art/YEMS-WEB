@@ -10,7 +10,11 @@ const HomeTwoSingleAbout = ({ icon, title, spacing}) => {
                     </div>
                     <div className="feature-small-content">
                         <h3>{title}</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor.</p>
+                        <p>•	Case management of all ages <br/>
+•	giving presentations regarding Trauma informed <br/>
+•	visiting service providers for mental health assessments and reviews<br/>
+•	attending community meetings and forums<br/>
+•	creating engagement opportunities, schools, offices and coffee shop outings.</p>
                     </div>
                 </div>
             </div>
