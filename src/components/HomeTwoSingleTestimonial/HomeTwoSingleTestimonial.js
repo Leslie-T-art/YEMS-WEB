@@ -20,9 +20,8 @@ const HomeTwoSingleTestimonial = ({image}) => {
                   </div>
                </div>
                <div className="testi-content-2">
-                  <h3>Lorem ipsum dolor sit amet, consectetur adipil sicing elit, sed do eiusmod tempor.</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-                     aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
+                  <h3>They offer the best service</h3>
+                  <p>The level of professionalism at Yems is absolutely amazing. I recommend them to anyone.</p>
                </div>
                <div className="testi-author d-flex align-items-center mt-30">
                   <div className="testi-author-icon-2">
@@ -30,7 +29,7 @@ const HomeTwoSingleTestimonial = ({image}) => {
                   </div>
                   <div className="testi-author-desination-2">
                      <h4>Rosalina D. Williamson</h4>
-                     <span>Founder At <span className="f-500 green-color">MinimalDesign</span></span>
+                     <span><span className="f-500 pink-color">Regular Client</span></span>
                   </div>
                </div>
             </div>
